@@ -89,3 +89,7 @@ tests/
 notebooks/
 └── demo.ipynb        # Interactive walkthrough
 ```
+
+---
+
+Built by [Trango Compute](https://trango-compute.com)
