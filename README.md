@@ -1,5 +1,7 @@
 # Sample LangGraph Support Agent
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 A multi-node customer support chatbot built with [LangGraph](https://github.com/langchain-ai/langgraph). Serves as a canonical example of LangGraph features and as a test fixture for the AI Workflow Visualizer.
 
 ## Workflow
